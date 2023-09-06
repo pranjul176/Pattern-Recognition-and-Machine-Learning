@@ -1,2 +1,2 @@
-# Pattern-Recognition-and-Machine-lLearning
+# Pattern-Recognition-and-Machine-Learning
 Deep understanding of the machine learning algorithms
